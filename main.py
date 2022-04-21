@@ -25,7 +25,7 @@ def get_xkcd() -> str:
         r = requests.get("https://xkcd.com/info.0.json").json()
         img = r['img']
 
-        return f'<a href="https://doutorpepper.com.br/tirinha-aleatoria/" />\n</a>'
+        return f'<a href="https://xkcd.com/">\n <img src="{img}" />\n</a>'
 
     return ""
 
