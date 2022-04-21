@@ -1,4 +1,5 @@
 Original == https://github.com/ism0080/comicstrip-readme
+
 Creditos para == https://github.com/ism0080
 
 Adaptação para o site: https://www.malvados.com.br/
