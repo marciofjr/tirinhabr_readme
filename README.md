@@ -5,11 +5,11 @@ Creditos para == https://github.com/ism0080
 Adaptação para o site: https://www.malvados.com.br/
 
 
-# Comic Strip ![Build](https://github.com/ism0080/comicstrip-readme/workflows/Build%20and%20Test%20Python%20Package/badge.svg?branch=main)
+# Comic Strip ![Build](https://github.com/marciofjr/tirinhabr-readme/workflows/Build%20and%20Test%20Python%20Package/badge.svg?branch=main)
 
 This GitHub Workflow updates your readme with the provided comic strips daily. The current comics available are:
 
--   [XKCD](https://xkcd.com/)
+-   [Malvados](https://www.malvados.com.br/)
 
 ## Update your README
 
